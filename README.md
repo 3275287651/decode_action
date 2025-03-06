@@ -11,6 +11,16 @@ python脚本同理 放入到input.py里面 等待60s左右即可在output.py看�
 
 脚本自适应检测加密方式
 
+没有自动解密的兄弟自行设置下settings(仓库
+上面)-actions（左边)-general(左边)
+Actions permissions选第4个(AllowXXXX,
+and select non-XXXX,actions and reusable
+workflows)然后下面2个打勾(Allow actions
+created by GitHub,Allow actions by
+Marketplace verified creators) 最后按
+save保存结束
+
+
 支持sojson [源jsjiami.v6]
 
 支持sojsonv7 [源jsjiami.v7]
